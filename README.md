@@ -11,7 +11,7 @@ I'm always looking for new ideas and projects to code and design.
 
 ### Languages and tools
 
-💻:
+<code>💻</code>
 <code><img height="25" src="/assets/javascript.png"></code>
 <code><img height="25" src="/assets/typescript.png"></code>
 <code><img height="25" src="/assets/react.png"></code>
@@ -19,7 +19,7 @@ I'm always looking for new ideas and projects to code and design.
 <code><img height="25" src="/assets/php.png"></code>
 <code><img height="25" src="/assets/laravel.png"></code>
 
-🖌:
+<code>🖌</code>
 <code><img height="25" src="/assets/figma.png"></code>
 <code><img height="25" src="/assets/photoshop.png"></code>
 <code><img height="25" src="/assets/illustrator.png"></code>
