@@ -1,5 +1,5 @@
 <a href="https://husseinhallak.dev">
-  <img src="/assets/banner.png" alt="Banner">
+  <img src="/assets/banner.png" alt="Hussein Hallak Banner">
 </a>
 
 # 👨🏻‍💻 Hussein Hallak
