@@ -27,6 +27,7 @@ I'm always looking for new ideas and projects to code and design.
 
 ### Experience
 
+- 💻 Fullstack Developer (2021 - Today) @ BASE [https://base.digital]
 - 💻 Fullstack Developer (2015 - Today) @ MPC-MT (Public Ministry of Accounts of Mato Grosso) [https://mpc.mt.gov.br]
 - 💻 Fullstack Developer (2017) @ SETEC [https://setec.ufmt.br]
 - 🎓 BSc. Computer Science (2017) @ UFMT 
